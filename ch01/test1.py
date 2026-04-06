@@ -1,2 +1,2 @@
 print("hi!!!^^/~")
-print("How are you?")
+print("thanks")
